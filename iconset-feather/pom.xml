@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.thevpc.more.iconsets</groupId>
     <artifactId>iconset-feather</artifactId>
-    <version>1.0.0</version><!--non published-->
+    <version>1.0.1</version><!--non published-->
     <packaging>jar</packaging>
     <name>net.thevpc.more.iconsets.iconset-feather</name>
     <description>Feather Open source Icons</description>
