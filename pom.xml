@@ -5,12 +5,15 @@
     <artifactId>iconset-build-all</artifactId>
     <version>1.0.1</version>
     <packaging>pom</packaging>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
     <modules>
         <module>iconset-feather</module>
         <module>iconset-svgrepo-color</module>
     </modules>
-    <properties>
-    </properties>
     <build>
     </build>
 </project>
